@@ -8,7 +8,7 @@
 
 ### 技术架构
 **合约语言：** solidity
-**前端框架：**react nextjs wagmi viem rainbowKit tailwind CSS
+**前端框架：** react nextjs wagmi viem rainbowKit tailwind CSS
 
 ### 核心功能
 **游戏模块：**
